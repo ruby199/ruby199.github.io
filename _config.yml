@@ -92,9 +92,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Rubin Won"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Science Master's Candidate and Research Assistant at ETRI | UofA Alumni with Expertise in Deep Learning and Computer Vision."
+  bio              : "Computer Science Master's Candidate and Research Assistant at ETRI"
   location         : "Somewhere"
   email            :
   links:
